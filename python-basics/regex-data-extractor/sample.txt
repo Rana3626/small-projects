@@ -1,0 +1,25 @@
+Customer: Rana Mahmoud
+Email: rana.mahmoud@example.com
+Phone: 0791234567
+Website: https://www.example.com
+Date: 12/05/2026
+
+Customer: Ahmad Saleh
+Email: ahmad.saleh@test.org
+Phone: 0789876543
+Website: http://ahmadsite.com
+Date: 03/11/2025
+
+Customer: Sara Ali
+Email: sara_ali22@gmail.com
+Phone: 0775554433
+Website: https://portfolio-sara.net
+Date: 21/01/2026
+
+Contact support at support@company.co
+Visit https://company.co/help for more information.
+Backup phone: 0791112233
+Meeting date: 30/09/2026
+
+Duplicate email for testing:
+rana.mahmoud@example.com
